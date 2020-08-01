@@ -4,4 +4,5 @@
 
 ## Table Of Contents
 
+- [Music Player](Music_Player/music_player.py)
 - [Video Player](Video_Player/video_player.py)
